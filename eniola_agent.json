@@ -1,0 +1,6 @@
+{
+  "name": "Eniola",
+  "role": "Personal Assistant",
+  "version": "1.0.0",
+  "tools": ["read", "write", "exec", "web_search", "browser", "message", "tts"]
+}

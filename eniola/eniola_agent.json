@@ -1,0 +1,11 @@
+{
+  "agent_name": "eniola",
+  "version": "2.0.0-rebuild",
+  "entry_point": "main_loop.py",
+  "routing_config": {
+    "default_model": "gemini-2.5-pro",
+    "fallback_model": "gemini-1.5-flash"
+    // ... (Actual routing logic from history to be inserted here)
+  },
+  "tools_config": []
+}
